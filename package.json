@@ -1,0 +1,24 @@
+{
+  "name": "refactoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose",
+    "test-watch": "jest --watch-all",
+    "coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oedersonmacedo/refactoring-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oedersonmacedo/refactoring-js/issues"
+  },
+  "homepage": "https://github.com/oedersonmacedo/refactoring-js#readme",
+  "devDependencies": {
+    "jest": "^29.4.2"
+  }
+}
